@@ -16,5 +16,5 @@ To open the color picker, press the `V` key. This can be changed in the game's c
 ## Installation
 1. Install the [Fabric Loader](https://fabricmc.net/use/).
 2. Download the [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) mod and place it in your mods folder (`.minecraft/mods`).
-3. Download the latest release from the releases page and place it in your mods folder.
+3. Download the latest release from the [releases](https://github.com/carl-vbn/colorassist-fabric/releases) page and place it in your mods folder.
 4. Launch Minecraft in the Fabric profile.
