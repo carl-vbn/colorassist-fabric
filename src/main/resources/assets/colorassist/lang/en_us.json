@@ -1,0 +1,10 @@
+{
+  "colorassist.colorAttributionMode": "Color Attribution Mode",
+  "key.colorassist.opencolorpicker": "Open color picker",
+  "category.colorassist": "ColorAssist",
+  "colorassist.colorAttributionMode.average": "Average",
+  "colorassist.colorAttributionMode.dominant_half": "Dominant half",
+  "colorassist.colorAttributionMode.dominant_third": "Dominant third",
+  "colorassist.colorAttributionMode.dominant_quarter": "Dominant quarter",
+  "itemGroup.colorassist.color_sorted_group": "Color sorted"
+}

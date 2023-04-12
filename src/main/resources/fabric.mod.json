@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "colorassist",
+  "version": "${version}",
+
+  "name": "ColorAssist",
+  "description": "A mod to help you find blocks of the exact color you need",
+  "authors": [
+    "carl-vbn"
+  ],
+  "contact": {
+    "homepage": "https://carl-vbn.dev/",
+    "sources": "https://github.com/carl-vbn"
+  },
+
+  "license": "Apache 2.0",
+  "icon": "assets/colorassist/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "dev.carlvbn.colorassist.ColorAssist"
+    ]
+  },
+  "mixins": [],
+
+  "depends": {
+    "fabricloader": ">=0.14.11",
+    "fabric-api": "*"
+  },
+  "suggests": {}
+}
